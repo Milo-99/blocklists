@@ -1,0 +1,2 @@
+# blocklists
+Google adservices blocklist
